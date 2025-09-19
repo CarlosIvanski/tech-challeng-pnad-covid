@@ -3,3 +3,4 @@
 requirements.txt
 dataset/
 *.csv
+questionario_pnad_covid_exportado.csv
